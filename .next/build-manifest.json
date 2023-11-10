@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/mayZZo3NUPMnvUuIm018t/_buildManifest.js",
-    "static/mayZZo3NUPMnvUuIm018t/_ssgManifest.js"
+    "static/ujih4WG5W8UZZLDM66rYq/_buildManifest.js",
+    "static/ujih4WG5W8UZZLDM66rYq/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -16,8 +16,8 @@
       "static/chunks/main-12b4344bfd88e8af.js",
       "static/chunks/391-8b5f663028b2e18a.js",
       "static/chunks/775-134b8efab3585947.js",
-      "static/chunks/870-8a1a72ce534c21bf.js",
-      "static/chunks/pages/index-3ac0762723b9631c.js"
+      "static/chunks/339-b7fbf1d4c4756d8e.js",
+      "static/chunks/pages/index-a8e8675ceb0316df.js"
     ],
     "/_app": [
       "static/chunks/webpack-9df3a970384db417.js",
@@ -37,7 +37,7 @@
       "static/chunks/framework-bbecb7d54330d002.js",
       "static/chunks/main-12b4344bfd88e8af.js",
       "static/chunks/391-8b5f663028b2e18a.js",
-      "static/chunks/675-102df9e1dbfd6602.js",
+      "static/chunks/675-4c5aeccc4e78e2e6.js",
       "static/chunks/666-d181ac5020289b69.js",
       "static/chunks/775-134b8efab3585947.js",
       "static/chunks/788-e4e907ccc32fc28e.js",
@@ -50,7 +50,7 @@
       "static/chunks/framework-bbecb7d54330d002.js",
       "static/chunks/main-12b4344bfd88e8af.js",
       "static/chunks/391-8b5f663028b2e18a.js",
-      "static/chunks/675-102df9e1dbfd6602.js",
+      "static/chunks/675-4c5aeccc4e78e2e6.js",
       "static/chunks/666-d181ac5020289b69.js",
       "static/chunks/686-5c4fe2133d8e59bf.js",
       "static/chunks/pages/portfolio-84b4ae7e6f371c16.js"
@@ -60,7 +60,7 @@
       "static/chunks/framework-bbecb7d54330d002.js",
       "static/chunks/main-12b4344bfd88e8af.js",
       "static/chunks/391-8b5f663028b2e18a.js",
-      "static/chunks/675-102df9e1dbfd6602.js",
+      "static/chunks/675-4c5aeccc4e78e2e6.js",
       "static/chunks/788-e4e907ccc32fc28e.js",
       "static/chunks/284-bab140aa76976827.js",
       "static/chunks/pages/price-04079119608ca7e3.js"
@@ -70,7 +70,7 @@
       "static/chunks/framework-bbecb7d54330d002.js",
       "static/chunks/main-12b4344bfd88e8af.js",
       "static/chunks/391-8b5f663028b2e18a.js",
-      "static/chunks/675-102df9e1dbfd6602.js",
+      "static/chunks/675-4c5aeccc4e78e2e6.js",
       "static/chunks/666-d181ac5020289b69.js",
       "static/chunks/912-563723851eb1453f.js",
       "static/chunks/686-5c4fe2133d8e59bf.js",
