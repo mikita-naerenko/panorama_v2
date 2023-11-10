@@ -1,19 +1,15 @@
+// /** @type {import('next').NextConfig} */
+// const nextConfig = {
+//   reactStrictMode: true,
+//   output: 'export',
+// }
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  output: 'export',
-}
+  basePath: '/panorama_v2', // Update this to the base path of your project
+  target: 'experimental-serverless-trace',
+};
 
-// module.exports = {
-//   // other configurations...
-//   target: 'experimental-serverless-trace',
-//   exportPathMap: async function () {
-//     return {
-//       '/': { page: '/' },
-//       // Add other routes if needed
-//     };
-//   },
-//   distDir: 'out',
-// };
 
 module.exports = nextConfig
