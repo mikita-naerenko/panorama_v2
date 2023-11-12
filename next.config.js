@@ -2,6 +2,7 @@
 const nextConfig = {
   output: 'export',
   basePath: '/panorama_v2',
+  trailingSlash: false,
   // output: 'standalone',
 }
 
