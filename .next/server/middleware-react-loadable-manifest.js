@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{\"../sections/mainPage/mainPage.js -> ./mainSphere/mainSphere\":{\"id\":\"../sections/mainPage/mainPage.js -> ./mainSphere/mainSphere\",\"files\":[\"static/chunks/src_sections_mainPage_mainSphere_mainSphere_js.js\"]},\"../sections/singlePortfolioList/modalProject.js -> ./sphere\":{\"id\":\"../sections/singlePortfolioList/modalProject.js -> ./sphere\",\"files\":[\"static/chunks/src_sections_singlePortfolioList_sphere_js.js\"]}}"
+self.__REACT_LOADABLE_MANIFEST="{}"
