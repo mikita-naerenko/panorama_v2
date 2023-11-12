@@ -34,7 +34,7 @@ const Page = () => (
           >
             <img
               alt="Under development"
-              src="/error-404.png"
+              src="error-404.png"
               style={{
                 display: 'inline-block',
                 maxWidth: '100%',
@@ -60,7 +60,7 @@ const Page = () => (
           </Typography>
           <Button
             component={NextLink}
-            href="/"
+            href="/panorama_v2/"
             sx={{ mt: 3 }}
             variant="contained"
           >
