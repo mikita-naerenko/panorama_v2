@@ -21,7 +21,8 @@ export default function MainPage() {
   const [elementWidth, setElementWidth] = useState(0);
 
   const dispath = useDispatch();
-  const { isMainMenuOpen } = useSelector(state => state.mainPageSlice);
+  const { isMainMenuOpen } = useSelector(state => state.mainPage)
+
 
   useEffect(() => {
     // Function to update element width
@@ -79,6 +80,7 @@ export default function MainPage() {
             </Grid>
             <Grid sx={{display: 'flex', justifyContent: 'center'}}>
               {isMainMenuOpen ? <MainPageMenu/> : <MainNavButton/>}
+          
             </Grid>
           </Grid>
           <NoSSRMainSphere/>

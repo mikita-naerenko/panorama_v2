@@ -8,8 +8,8 @@ const initialState = filtersAdapter.getInitialState({
 
 
 
-const mainSlice = createSlice({
-    name: 'mainPageSlice',
+const mainPageSlice = createSlice({
+    name: 'mainPage',
     initialState,
     reducers: {
         setIsMainMenuOpen: (state, action) => {
@@ -19,9 +19,9 @@ const mainSlice = createSlice({
 }); 
 
 
-const {actions, reducer} = mainSlice;
+const {actions, reducer} = mainPageSlice;
 export default reducer;
-export const {selectAll} = filtersAdapter.getSelectors(state => state.mainPageSlice);
+export const {selectAll} = filtersAdapter.getSelectors(state => state.mainPage);
 
 
 export const {

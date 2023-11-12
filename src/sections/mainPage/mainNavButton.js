@@ -8,7 +8,7 @@ import { setIsMainMenuOpen } from './mainPageSlice';
 export default function MainNavButton() {
 
     const dispath = useDispatch();
-    const { isMainMenuOpen } = useSelector(state => state.mainPageSlice);
+    const { isMainMenuOpen } = useSelector(state => state.mainPage);
 
     const handleClick = () => {
         dispath(setIsMainMenuOpen(!isMainMenuOpen))

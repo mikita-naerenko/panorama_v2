@@ -1,12 +1,18 @@
 import { configureStore } from '@reduxjs/toolkit';
-import mainPageSlice from '../sections/mainPage/mainPageSlice';
+import mainPage from '../sections/mainPage/mainPageSlice';
 import main from './mainSlice';
+import portfolioFilter from '../sections/portfolioFilter/portfolioFilterSlice'
+
+
 
 
 
 const store = configureStore({
     reducer: { 
-        mainPageSlice, main
+        mainPage,
+        main,
+        portfolioFilter,
+        
       
     },
 devTools: process.env.NODE_ENV !== 'production',

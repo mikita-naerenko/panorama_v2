@@ -1,14 +1,10 @@
 import Container from '@mui/material/Container'
-import Typography  from '@mui/material/Typography'
 import Grid from '@mui/material/Grid';
 import { useTheme } from '@mui/material/styles';
 import PageTitle from '@/components/pageTitle';
 import MiniDrawer from '@/components/drawer/drawer';
 import { UseSetCurrentPageOnRefresh } from '@/customHooks/customHooks';
 import HiddenSEOTitle from '@/components/hiddenSEOTitle';
-import PortfolioList from '@/sections/portfolioList/portfolioList';
-import PortfolioFilter from '@/sections/portfolioFilter/portfolioFilter';
-import { LAYOUT_STYLES } from '@/const/constants';
 import YandexReview from '@/components/yandexReview';
 import ReviewList from '@/sections/reviews/reviewList';
 
