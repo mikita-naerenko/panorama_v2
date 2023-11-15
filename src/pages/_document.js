@@ -41,6 +41,11 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <Favicon/>
+        <title>Панорама 3Д туры в Краснодаре</title>
+        <meta name="description" content="Создать 3д тур в Краснодаре, разместить на гугл картах или яндекс картах" />
+        <meta name="keywords" content="3Д тур, Панорманые снимки в Краснодаре, Аэропанормама 360 градусов, Панорманые фото для яндекс карт, Краснодар, Видео 360 градусов," />
+        <meta name="robots" content="index, follow" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <body>
         <Main />
