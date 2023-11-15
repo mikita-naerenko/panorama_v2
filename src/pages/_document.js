@@ -42,6 +42,7 @@ export default function Document() {
       <Head>
         <Favicon/>
         <title>Панорама 3Д туры в Краснодаре</title>
+        <meta name="google-site-verification" content="Xei1lk2CorqeJoL720O6LLsJjJ9F9sz0eaw3U9jULl0" />
         <meta name="description" content="Создать 3д тур в Краснодаре, разместить на гугл картах или яндекс картах" />
         <meta name="keywords" content="3Д тур, Панорманые снимки в Краснодаре, Аэропанормама 360 градусов, Панорманые фото для яндекс карт, Краснодар, Видео 360 градусов," />
         <meta name="robots" content="index, follow" />
